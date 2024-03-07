@@ -1,0 +1,27 @@
+Array
+(
+    [0] => Livre Object
+        (
+            [titre:Livre:private] => Les Piliers de la Terre
+            [genre:Livre:private] => Roman
+            [nbpage:Livre:private] => 350
+            [prix:Livre:private] => 12.9
+        )
+
+    [1] => Livre Object
+        (
+            [titre:Livre:private] => Un Monde sans Fin
+            [genre:Livre:private] => Roman
+            [nbpage:Livre:private] => 288
+            [prix:Livre:private] => 18.5
+        )
+
+    [2] => Livre Object
+        (
+            [titre:Livre:private] => La Chute des Géants
+            [genre:Livre:private] => Roman
+            [nbpage:Livre:private] => 310
+            [prix:Livre:private] => 23
+        )
+
+)
